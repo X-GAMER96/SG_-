@@ -1,16 +1,14 @@
-[[MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-(https://rishavchanda.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)](https://X-GAMER96.github.io)
 <h1 align="center">Hi 👋, I'm SOUMYA </h1>
-<h3 align="center">I AM NOT A PROGRAMMER...🌞</h3><p align="left"> <img
-src=(img align="right" alt="Coding" width="400"
-"https://cdn.dribbble.com/users/116207...")"https://komarev.com/ghpvc/?username=x-gamer96&label=Profile%20views&color=0e75b6&style=flat" alt="x-gamer96" /> </p>
+<h3 align="center">I AM NOT A PROGRAMMER...🚀</h3><p align="left"> <img
+src="https://cdn.dribbble.com/users/116207...")"https://komarev.com/ghpvc/?username=x-gamer96&label=Profile%20views&color=0e75b6&style=flat" alt="x-gamer96" /> </p>
 <p align="left"> <a href="https://twitter.com/itz_soumya_s14" target="blank"><img src="https://img.shields.io/twitter/follow/itz_soumya_s14?logo=twitter&style=for-the-badge" alt="itz_soumya_s14" /></a> </p>
 
-- 🌱 I’m currently learning **12TH**
+- 🌱 I’m currently study in class **12TH**
 
 - 📫 How to reach me **akinodevils14@gmail.com**
 
-- ⚡ Fun fact **I deserved a better goodbye .**
+- ⚡ Fun fact **I am funny 😸⚡ .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,27 +26,3 @@ src=(img align="right" alt="Coding" width="400"
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x-gamer96&" alt="x-gamer96" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-GitHub Profile github profile markdown generator logo
-README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
